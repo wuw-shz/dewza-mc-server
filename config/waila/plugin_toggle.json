@@ -4,5 +4,6 @@
   "waila:harvest": true,
   "waila:extra": true,
   "waila:forge": true,
-  "waila:test": false
+  "waila:test": false,
+  "mekanism:plugin": true
 }
