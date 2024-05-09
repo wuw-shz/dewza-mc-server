@@ -1,20 +1,20 @@
-[09May2024 10:51:16.390] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.30, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[09May2024 10:51:16.396] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[09May2024 10:51:17.005] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09May2024 10:51:17.051] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09May2024 10:51:17.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.30\fmlcore-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 10:51:17.451] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.30\javafmllanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 10:51:17.453] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.30\lowcodelanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 10:51:17.456] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.30\mclanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 10:51:17.612] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[09May2024 10:51:17.613] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[09May2024 10:51:18.966] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09May2024 10:51:19.073] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[09May2024 10:51:19.075] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[09May2024 10:51:19.142] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.17.0+mc1.20.1: 78 options available, 0 override(s) found
-[09May2024 10:51:19.143] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[09May2024 10:51:19.158] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[09May2024 10:51:19.269] [main/INFO] [Puzzles Lib/]: Loading 84 mods:
+[09May2024 11:47:31.826] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.30, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09May2024 11:47:31.830] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[09May2024 11:47:32.356] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09May2024 11:47:32.400] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09May2024 11:47:32.768] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.30\fmlcore-1.20.1-47.2.30.jar is missing mods.toml file
+[09May2024 11:47:32.770] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.30\javafmllanguage-1.20.1-47.2.30.jar is missing mods.toml file
+[09May2024 11:47:32.773] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.30\lowcodelanguage-1.20.1-47.2.30.jar is missing mods.toml file
+[09May2024 11:47:32.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.30\mclanguage-1.20.1-47.2.30.jar is missing mods.toml file
+[09May2024 11:47:32.909] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[09May2024 11:47:32.911] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[09May2024 11:47:34.393] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09May2024 11:47:34.491] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[09May2024 11:47:34.493] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09May2024 11:47:34.558] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.17.0+mc1.20.1: 78 options available, 0 override(s) found
+[09May2024 11:47:34.560] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[09May2024 11:47:34.576] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[09May2024 11:47:34.688] [main/INFO] [Puzzles Lib/]: Loading 84 mods:
 	- another_furniture 1.20.1-3.0.1
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
@@ -99,463 +99,465 @@
 	- waila 8.10.0
 	- wirelesschargers 1.0.9a
 	- wthit 8.10.0
-[09May2024 10:51:19.486] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:19.517] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:19.999] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[09May2024 10:51:20.867] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.288 s after launch)
-[09May2024 10:51:20.970] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[09May2024 10:51:20.971] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[09May2024 10:51:21.284] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:21.285] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:21.832] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 962 milliseconds
-[09May2024 10:51:22.192] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:22.193] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09May2024 10:51:23.623] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[09May2024 10:51:23.958] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
-[09May2024 10:51:24.006] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.2 has initialized, ready to support your Create add-ons!
-[09May2024 10:51:24.019] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
-[09May2024 10:51:24.081] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.30, for MC 1.20.1 with MCP 20230612.114412
-[09May2024 10:51:24.082] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.30 Initialized
-[09May2024 10:51:24.111] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[09May2024 10:51:24.111] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[09May2024 10:51:24.112] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[09May2024 10:51:24.112] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[09May2024 10:51:24.112] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[09May2024 10:51:24.112] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[09May2024 10:51:24.113] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[09May2024 10:51:24.132] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
-[09May2024 10:51:24.167] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[09May2024 10:51:24.171] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[09May2024 10:51:24.180] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[09May2024 10:51:24.184] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[09May2024 10:51:24.189] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[09May2024 10:51:24.192] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[09May2024 10:51:24.196] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[09May2024 10:51:24.200] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[09May2024 10:51:24.351] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
-[09May2024 10:51:24.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
-[09May2024 10:51:24.357] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
-[09May2024 10:51:24.426] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[09May2024 10:51:24.439] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[09May2024 10:51:24.460] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
-[09May2024 10:51:24.505] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[09May2024 10:51:24.534] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[09May2024 10:51:27.725] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[09May2024 10:51:27.732] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[09May2024 10:51:27.735] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[09May2024 10:51:27.737] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[09May2024 10:51:28.252] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
-[09May2024 10:51:28.265] [modloading-worker-0/INFO] [com.mowmaster.pedestals.pedestals/]: Initialize Pedestals WorldGen
-[09May2024 10:51:28.302] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.6 initializing...
-[09May2024 10:51:28.318] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
-[09May2024 10:51:28.321] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[09May2024 10:51:28.333] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
-[09May2024 10:51:28.333] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
-[09May2024 10:51:28.410] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[09May2024 10:51:28.410] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[09May2024 10:51:28.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[09May2024 10:51:28.987] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
-[09May2024 10:51:28.999] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
-[09May2024 10:51:29.015] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
-[09May2024 10:51:29.017] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
-[09May2024 10:51:29.020] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Skipping disabled plugin waila:test
-[09May2024 10:51:29.024] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin mekanism:plugin at mekanism.common.integration.lookingat.wthit.MekanismWTHITPlugin
-[09May2024 10:51:29.027] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
-[09May2024 10:51:29.039] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[09May2024 10:51:29.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.1 Target: null
-[09May2024 10:51:29.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [everlastingabilities] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/everlastingabilities.json
-[09May2024 10:51:29.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [everlastingabilities] Found status: UP_TO_DATE Current: 2.0.14 Target: null
-[09May2024 10:51:29.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[09May2024 10:51:29.625] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09May2024 10:51:29.704] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[09May2024 10:51:29.912] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/assets/.mcassetsroot' uses unexpected schema
-[09May2024 10:51:29.913] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/data/.mcassetsroot' uses unexpected schema
-[09May2024 10:51:30.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[09May2024 10:51:30.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.19/update.json
-[09May2024 10:51:30.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.10.0 Target: null
-[09May2024 10:51:30.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[09May2024 10:51:31.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.1.10 Target: 20.1.10
-[09May2024 10:51:31.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[09May2024 10:51:31.300] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fan_transparent as it is missing following references: create:void_steel_bars (from createutilities-0.3.0+1.20.1.jar)
-[09May2024 10:51:31.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[09May2024 10:51:31.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[09May2024 10:51:31.681] [main/INFO] [Iron Jetpacks/]: Loaded 14 jetpack type(s) in 8 ms
-[09May2024 10:51:31.686] [main/INFO] [Cucumber Library/]: Registered 52 recipes in 13 ms
-[09May2024 10:51:31.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:pumpkin_pie as it's serializer returned null
-[09May2024 10:51:31.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:gloomgourd_pie as it's serializer returned null
-[09May2024 10:51:31.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:skyroot_milk_bucket_cake as it's serializer returned null
-[09May2024 10:51:31.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_thermal as it's serializer returned null
-[09May2024 10:51:31.728] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/ritual/living_knife as it's serializer returned null
-[09May2024 10:51:31.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/skyroot_wood as it's serializer returned null
-[09May2024 10:51:31.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/skyroot_knife as it's serializer returned null
-[09May2024 10:51:31.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mechanical_crafting/gilded_quartz_knife as it's serializer returned null
-[09May2024 10:51:31.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:green_apple_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg as it's serializer returned null
-[09May2024 10:51:31.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_axe as it's serializer returned null
-[09May2024 10:51:31.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomesoplenty/lavender_tea as it's serializer returned null
-[09May2024 10:51:31.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/fieldsprout_log as it's serializer returned null
-[09May2024 10:51:31.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:moa_egg_pumpkin_pie as it's serializer returned null
-[09May2024 10:51:31.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg_from_smoking as it's serializer returned null
-[09May2024 10:51:31.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/nightshade_berry_pie as it's serializer returned null
-[09May2024 10:51:31.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:hydra_burger as it's serializer returned null
-[09May2024 10:51:31.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/mendosteen_crate as it's serializer returned null
-[09May2024 10:51:31.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle/azalea_tea as it's serializer returned null
-[09May2024 10:51:31.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:frosteel_knife as it's serializer returned null
-[09May2024 10:51:31.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/windswept/goat_shanks_windswept as it's serializer returned null
-[09May2024 10:51:31.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/blueberry_pie as it's serializer returned null
-[09May2024 10:51:31.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/gloomgourd_pie as it's serializer returned null
-[09May2024 10:51:31.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_axe as it's serializer returned null
-[09May2024 10:51:31.753] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_green_apple_crate as it's serializer returned null
-[09May2024 10:51:31.754] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/invar_thermal as it's serializer returned null
-[09May2024 10:51:31.754] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/lead_thermal as it's serializer returned null
-[09May2024 10:51:31.755] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cratedelight:minecraft/crafting/sugar_bag: com.google.gson.JsonSyntaxException: Unknown item 'cratedelight:sugar_bag'
-[09May2024 10:51:31.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/lead_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_barrel_cactus_flowered as it's serializer returned null
-[09May2024 10:51:31.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:tuna_sandwich as it's serializer returned null
-[09May2024 10:51:31.760] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:cutting/rotten_log as it's serializer returned null
-[09May2024 10:51:31.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:nightshade_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/valkyrum_knife as it's serializer returned null
-[09May2024 10:51:31.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/skyroot_log as it's serializer returned null
-[09May2024 10:51:31.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_chestplate as it's serializer returned null
-[09May2024 10:51:31.766] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/tin_thermal as it's serializer returned null
-[09May2024 10:51:31.767] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:pb_j as it's serializer returned null
-[09May2024 10:51:31.767] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_crimson_berry_sack as it's serializer returned null
-[09May2024 10:51:31.769] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/nickel_thermal as it's serializer returned null
-[09May2024 10:51:31.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/draco_arcanus_knife as it's serializer returned null
-[09May2024 10:51:31.772] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sprout:water_sausage as it's serializer returned null
-[09May2024 10:51:31.773] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/onyx_knife as it's serializer returned null
-[09May2024 10:51:31.773] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/azalea_log as it's serializer returned null
-[09May2024 10:51:31.773] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/source_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.774] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_saguaro_cactus as it's serializer returned null
-[09May2024 10:51:31.775] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/warden_knife as it's serializer returned null
-[09May2024 10:51:31.775] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg_from_smoking as it's serializer returned null
-[09May2024 10:51:31.777] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/lapis_lazuli_knife as it's serializer returned null
-[09May2024 10:51:31.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:truffle_cake_from_chocolate as it's serializer returned null
-[09May2024 10:51:31.778] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bronze_thermal as it's serializer returned null
-[09May2024 10:51:31.779] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/sweet_berry_pie as it's serializer returned null
-[09May2024 10:51:31.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/diamond_diamond_nuggets as it's serializer returned null
-[09May2024 10:51:31.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_copperized as it's serializer returned null
-[09May2024 10:51:31.781] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/coconut_curry_no_ginger as it's serializer returned null
-[09May2024 10:51:31.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mythril_knife as it's serializer returned null
-[09May2024 10:51:31.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/grongle_log as it's serializer returned null
-[09May2024 10:51:31.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/blue_archwood_wood as it's serializer returned null
-[09May2024 10:51:31.785] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/venison as it's serializer returned null
-[09May2024 10:51:31.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle_yh/lavender_tea as it's serializer returned null
-[09May2024 10:51:31.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:crimson_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.787] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cranberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.788] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/steeleaf_knife as it's serializer returned null
-[09May2024 10:51:31.790] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe cratedelight:minecraft/crafting/cod_crate as it's serializer returned null
-[09May2024 10:51:31.790] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.791] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:pumpkin_pie as it's serializer returned null
-[09May2024 10:51:31.798] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:deluxe_burger_from_bun as it's serializer returned null
-[09May2024 10:51:31.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/blackberry_pie as it's serializer returned null
-[09May2024 10:51:31.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:cake as it's serializer returned null
-[09May2024 10:51:31.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:hydra_burger_from_bun as it's serializer returned null
-[09May2024 10:51:31.799] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/azalea_wood as it's serializer returned null
-[09May2024 10:51:31.800] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_from_barrel: com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
-[09May2024 10:51:31.800] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/sunroot_wood as it's serializer returned null
-[09May2024 10:51:31.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/holystone_knife as it's serializer returned null
-[09May2024 10:51:31.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/constantan_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunkwich as it's serializer returned null
-[09May2024 10:51:31.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/steel_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:cutting/knife/gloomgourd_pie as it's serializer returned null
-[09May2024 10:51:31.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/thyrium_knife as it's serializer returned null
-[09May2024 10:51:31.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:glow_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.807] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/grongle_wood as it's serializer returned null
-[09May2024 10:51:31.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/constantan_thermal as it's serializer returned null
-[09May2024 10:51:31.808] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunkwich_from_bun as it's serializer returned null
-[09May2024 10:51:31.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_barrel_cactus as it's serializer returned null
-[09May2024 10:51:31.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/zanite_knife as it's serializer returned null
-[09May2024 10:51:31.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:deluxe_burger as it's serializer returned null
-[09May2024 10:51:31.810] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_nouveau:source_berry_roll as it's serializer returned null
-[09May2024 10:51:31.811] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/silver_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.812] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.812] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/invar_thermal as it's serializer returned null
-[09May2024 10:51:31.812] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:raspberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.812] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/stratus_knife as it's serializer returned null
-[09May2024 10:51:31.814] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/lead_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.814] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_shovel as it's serializer returned null
-[09May2024 10:51:31.815] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sunflowerdelight:cooking/rose_lemonade as it's serializer returned null
-[09May2024 10:51:31.815] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:holiday_fruit_cake as it's serializer returned null
-[09May2024 10:51:31.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/marshmallow_stick_create_confectionery as it's serializer returned null
-[09May2024 10:51:31.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/skyjade_knife as it's serializer returned null
-[09May2024 10:51:31.818] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/honey_glazed_walnut as it's serializer returned null
-[09May2024 10:51:31.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/stratus_knife as it's serializer returned null
-[09May2024 10:51:31.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe neapolitan:banana/banana_bread as it's serializer returned null
-[09May2024 10:51:31.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/sinigang as it's serializer returned null
-[09May2024 10:51:31.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/fluix_knife as it's serializer returned null
-[09May2024 10:51:31.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:ghast_burger_from_bun as it's serializer returned null
-[09May2024 10:51:31.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create:fr/tea as it's serializer returned null
-[09May2024 10:51:31.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/conberry_wood as it's serializer returned null
-[09May2024 10:51:31.822] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:skyroot_milk_bucket_cake as it's serializer returned null
-[09May2024 10:51:31.822] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/green_archwood_log as it's serializer returned null
-[09May2024 10:51:31.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/tin_thermal as it's serializer returned null
-[09May2024 10:51:31.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/nightshade_berry_sack as it's serializer returned null
-[09May2024 10:51:31.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_leggings as it's serializer returned null
-[09May2024 10:51:31.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/netherite_opal_knife as it's serializer returned null
-[09May2024 10:51:31.823] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:hamburger_from_bun as it's serializer returned null
-[09May2024 10:51:31.824] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:matcha_ice_cream_block as it's serializer returned null
-[09May2024 10:51:31.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_chestplate as it's serializer returned null
-[09May2024 10:51:31.825] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/skyroot_knife as it's serializer returned null
-[09May2024 10:51:31.826] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/starlit_stellium_knife as it's serializer returned null
-[09May2024 10:51:31.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:cheese_burger_from_bun as it's serializer returned null
-[09May2024 10:51:31.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/crimson_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.828] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/obsidian_infused_enderite_knife as it's serializer returned null
-[09May2024 10:51:31.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/enderite_knife as it's serializer returned null
-[09May2024 10:51:31.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/utherium_knife as it's serializer returned null
-[09May2024 10:51:31.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_milk as it's serializer returned null
-[09May2024 10:51:31.830] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/walnut_wood as it's serializer returned null
-[09May2024 10:51:31.831] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/cruderoot_log as it's serializer returned null
-[09May2024 10:51:31.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_mendosteen_crate as it's serializer returned null
-[09May2024 10:51:31.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe minecraft:pumpkin_pie as it's serializer returned null
-[09May2024 10:51:31.833] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/kiwano_knife as it's serializer returned null
-[09May2024 10:51:31.833] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/zanite_knife as it's serializer returned null
-[09May2024 10:51:31.833] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/leaf_knife as it's serializer returned null
-[09May2024 10:51:31.834] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_leggings as it's serializer returned null
-[09May2024 10:51:31.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/flowering_azalea_wood as it's serializer returned null
-[09May2024 10:51:31.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/silver_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.836] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/nut_milk_from_skyroot_bucket as it's serializer returned null
-[09May2024 10:51:31.836] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:pumpkin_pie as it's serializer returned null
-[09May2024 10:51:31.836] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/constantan_knife as it's serializer returned null
-[09May2024 10:51:31.837] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_shovel as it's serializer returned null
-[09May2024 10:51:31.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/frostaya_crate as it's serializer returned null
-[09May2024 10:51:31.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_bastion_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_truffle_hot_chocolate as it's serializer returned null
-[09May2024 10:51:31.838] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:utherium_knife as it's serializer returned null
-[09May2024 10:51:31.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/raspberry_pie as it's serializer returned null
-[09May2024 10:51:31.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_baobab_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/cruderoot_wood as it's serializer returned null
-[09May2024 10:51:31.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:cutting/cooked_venison_rib as it's serializer returned null
-[09May2024 10:51:31.840] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/skyjade_knife as it's serializer returned null
-[09May2024 10:51:31.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/invar_knife as it's serializer returned null
-[09May2024 10:51:31.846] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/knightmetal_knife as it's serializer returned null
-[09May2024 10:51:31.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create:mixing/tea as it's serializer returned null
-[09May2024 10:51:31.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cake as it's serializer returned null
-[09May2024 10:51:31.848] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_joshua_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.848] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe hauntedharvest:corn_bread as it's serializer returned null
-[09May2024 10:51:31.849] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/purple_archwood_log as it's serializer returned null
-[09May2024 10:51:31.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/copper_knife as it's serializer returned null
-[09May2024 10:51:31.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/emerald_emeraldequipment as it's serializer returned null
-[09May2024 10:51:31.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/crystal_log as it's serializer returned null
-[09May2024 10:51:31.850] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.851] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/nightshade_berry_pie as it's serializer returned null
-[09May2024 10:51:31.852] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_frostaya_crate as it's serializer returned null
-[09May2024 10:51:31.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:moa_egg_cake as it's serializer returned null
-[09May2024 10:51:31.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blackberry_pie as it's serializer returned null
-[09May2024 10:51:31.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:sweet_berry_cheesecake_from_cheese as it's serializer returned null
-[09May2024 10:51:31.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/black_opal_knife as it's serializer returned null
-[09May2024 10:51:31.855] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/cooked_venison as it's serializer returned null
-[09May2024 10:51:31.855] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sunflowerdelight:cooking/rose_lemonade_from_lemon as it's serializer returned null
-[09May2024 10:51:31.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/smogstem_log as it's serializer returned null
-[09May2024 10:51:31.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/walnut_log as it's serializer returned null
-[09May2024 10:51:31.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/crab_rangoon as it's serializer returned null
-[09May2024 10:51:31.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_chocolate_milk_from_chocolate as it's serializer returned null
-[09May2024 10:51:31.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/stellium_knife as it's serializer returned null
-[09May2024 10:51:31.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/nickel_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.861] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fruitsdelight:fig_pudding as it's serializer returned null
-[09May2024 10:51:31.861] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_hoe as it's serializer returned null
-[09May2024 10:51:31.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/amethyst_knife as it's serializer returned null
-[09May2024 10:51:31.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/gloomgourd_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/blueberry_pie as it's serializer returned null
-[09May2024 10:51:31.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:cutting/rotten_wood as it's serializer returned null
-[09May2024 10:51:31.863] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/knife_minecraft as it's serializer returned null
-[09May2024 10:51:31.863] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cranberry_pie as it's serializer returned null
-[09May2024 10:51:31.863] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/electrum_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/alf_knife as it's serializer returned null
-[09May2024 10:51:31.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_pickaxe as it's serializer returned null
-[09May2024 10:51:31.865] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.865] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/golden_oak_wood as it's serializer returned null
-[09May2024 10:51:31.866] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/gravitite_knife as it's serializer returned null
-[09May2024 10:51:31.866] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/froststeel_knife as it's serializer returned null
-[09May2024 10:51:31.866] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/golden_oak_log as it's serializer returned null
-[09May2024 10:51:31.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/green_apple_pie as it's serializer returned null
-[09May2024 10:51:31.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/conberry_log as it's serializer returned null
-[09May2024 10:51:31.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/imbuement_pomegranate as it's serializer returned null
-[09May2024 10:51:31.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/veridium_knife as it's serializer returned null
-[09May2024 10:51:31.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:vegan_hamburger as it's serializer returned null
-[09May2024 10:51:31.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/gravitite_knife as it's serializer returned null
-[09May2024 10:51:31.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/red_archwood_log as it's serializer returned null
-[09May2024 10:51:31.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/large_amethyst_knife as it's serializer returned null
-[09May2024 10:51:31.869] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/ironwood_knife as it's serializer returned null
-[09May2024 10:51:31.870] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:raspberry_pie as it's serializer returned null
-[09May2024 10:51:31.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/quark/cactus_flesh_from_cactus_block as it's serializer returned null
-[09May2024 10:51:31.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/farmersrespite/green_tea_leaves_from_green_tea_leaf as it's serializer returned null
-[09May2024 10:51:31.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/constantan_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/crimson_berry_pie as it's serializer returned null
-[09May2024 10:51:31.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/bastion_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/experience_knife as it's serializer returned null
-[09May2024 10:51:31.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/nether_quartz_knife as it's serializer returned null
-[09May2024 10:51:31.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cake as it's serializer returned null
-[09May2024 10:51:31.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/purple_archwood_wood as it's serializer returned null
-[09May2024 10:51:31.873] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle_yh/azalea_tea as it's serializer returned null
-[09May2024 10:51:31.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg_from_campfire_cooking as it's serializer returned null
-[09May2024 10:51:31.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:green_apple_pie as it's serializer returned null
-[09May2024 10:51:31.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/yagroot_log as it's serializer returned null
-[09May2024 10:51:31.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:tropical_stew as it's serializer returned null
-[09May2024 10:51:31.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/green_apple_pie as it's serializer returned null
-[09May2024 10:51:31.875] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/azalea_tea as it's serializer returned null
-[09May2024 10:51:31.876] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:cutting/raw_venison_rib as it's serializer returned null
-[09May2024 10:51:31.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/blueberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_chocolate_milk as it's serializer returned null
-[09May2024 10:51:31.879] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:skyroot_milk_bucket_moa_egg_cake as it's serializer returned null
-[09May2024 10:51:31.880] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/crimson_berry_sack as it's serializer returned null
-[09May2024 10:51:31.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:forgotten_knife as it's serializer returned null
-[09May2024 10:51:31.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:campfire/cooked_goat as it's serializer returned null
-[09May2024 10:51:31.881] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/terra_knife as it's serializer returned null
-[09May2024 10:51:31.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/bombegranate_crate as it's serializer returned null
-[09May2024 10:51:31.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/crimson_berry_pie as it's serializer returned null
-[09May2024 10:51:31.882] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/smogstem_wood as it's serializer returned null
-[09May2024 10:51:31.883] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/blueberry_pie as it's serializer returned null
-[09May2024 10:51:31.884] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blackberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.885] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/clover_honey as it's serializer returned null
-[09May2024 10:51:31.886] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/nightshade_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_boots as it's serializer returned null
-[09May2024 10:51:31.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/soul_steel_knife as it's serializer returned null
-[09May2024 10:51:31.888] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mixing/blazing_knife as it's serializer returned null
-[09May2024 10:51:31.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/emerald_knife as it's serializer returned null
-[09May2024 10:51:31.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bronze_thermal as it's serializer returned null
-[09May2024 10:51:31.891] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_copperized as it's serializer returned null
-[09May2024 10:51:31.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/immersive_weathering/tallow_from_animal_fat as it's serializer returned null
-[09May2024 10:51:31.895] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/crystalline_knife as it's serializer returned null
-[09May2024 10:51:31.895] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/roseroot_wood as it's serializer returned null
-[09May2024 10:51:31.897] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/fieldsprout_wood as it's serializer returned null
-[09May2024 10:51:31.899] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/pendorite_knife as it's serializer returned null
-[09May2024 10:51:31.899] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:salmonberry_ice_cream_block as it's serializer returned null
-[09May2024 10:51:31.899] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_pickaxe as it's serializer returned null
-[09May2024 10:51:31.900] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/electrum_thermal as it's serializer returned null
-[09May2024 10:51:31.900] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:vegan_hamburger_from_bun as it's serializer returned null
-[09May2024 10:51:31.900] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miners_delight:insect_sandwich: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:insect_sandwich'
-[09May2024 10:51:31.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/nickel_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/certus_quartz_knife as it's serializer returned null
-[09May2024 10:51:31.901] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/infusion/infuse_and_charge_veridium_knife as it's serializer returned null
-[09May2024 10:51:31.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/windswept/cooked_goat_shanks_windswept as it's serializer returned null
-[09May2024 10:51:31.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/silver_thermal as it's serializer returned null
-[09May2024 10:51:31.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/red_archwood_wood as it's serializer returned null
-[09May2024 10:51:31.903] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/source_berry_pie as it's serializer returned null
-[09May2024 10:51:31.904] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:truffle_cake as it's serializer returned null
-[09May2024 10:51:31.904] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enlightened_end:smithing/adamantite_knife as it's serializer returned null
-[09May2024 10:51:31.905] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_truffle_hot_chocolate_from_chocolate as it's serializer returned null
-[09May2024 10:51:31.906] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/cranberry_pie as it's serializer returned null
-[09May2024 10:51:31.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/bone_knife as it's serializer returned null
-[09May2024 10:51:31.908] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/berry_matcha_latte_neapolitan as it's serializer returned null
-[09May2024 10:51:31.908] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:blueberry_pie as it's serializer returned null
-[09May2024 10:51:31.908] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/glow_berry_pie_slice as it's serializer returned null
-[09May2024 10:51:31.909] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.910] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_sword as it's serializer returned null
-[09May2024 10:51:31.910] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe cratedelight:minecraft/crafting/salmon_crate as it's serializer returned null
-[09May2024 10:51:31.914] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/imbuement_mangosteen as it's serializer returned null
-[09May2024 10:51:31.915] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_hoe as it's serializer returned null
-[09May2024 10:51:31.916] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/glacia_log as it's serializer returned null
-[09May2024 10:51:31.916] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/rose_gold_knife as it's serializer returned null
-[09May2024 10:51:31.920] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg_from_campfire_cooking as it's serializer returned null
-[09May2024 10:51:31.924] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/coconut_wood as it's serializer returned null
-[09May2024 10:51:31.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:smoking/cooked_goat as it's serializer returned null
-[09May2024 10:51:31.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/deluxe_cheeseburger_from_bun as it's serializer returned null
-[09May2024 10:51:31.926] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/matcha_ice_cream as it's serializer returned null
-[09May2024 10:51:31.929] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/glacia_wood as it's serializer returned null
-[09May2024 10:51:31.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:bacon_sandwich_from_bread_slice as it's serializer returned null
-[09May2024 10:51:31.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_thermal as it's serializer returned null
-[09May2024 10:51:31.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/constantan_thermal as it's serializer returned null
-[09May2024 10:51:31.932] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/green_archwood_wood as it's serializer returned null
-[09May2024 10:51:31.932] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/steel_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.936] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/atmospheric/cactus_flesh_from_barrel_cactus as it's serializer returned null
-[09May2024 10:51:31.937] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_helmet as it's serializer returned null
-[09May2024 10:51:31.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cratedelight:minecraft/crafting/apple_crate: com.google.gson.JsonSyntaxException: Unknown item 'cratedelight:apple_crate'
-[09May2024 10:51:31.939] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_barrel: com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
-[09May2024 10:51:31.939] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg as it's serializer returned null
-[09May2024 10:51:31.941] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:sweet_berry_pie as it's serializer returned null
-[09May2024 10:51:31.941] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:gloomgourd_pie as it's serializer returned null
-[09May2024 10:51:31.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/nickel_thermal as it's serializer returned null
-[09May2024 10:51:31.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:glow_berry_pie_craft as it's serializer returned null
-[09May2024 10:51:31.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/atmospheric/cactus_flesh_from_barrel_cactus_batch as it's serializer returned null
-[09May2024 10:51:31.944] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.944] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/flowering_azalea_log as it's serializer returned null
-[09May2024 10:51:31.945] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/allthemodium_knife as it's serializer returned null
-[09May2024 10:51:31.947] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.948] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/smore as it's serializer returned null
-[09May2024 10:51:31.950] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blueberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/prickly_pear_juice as it's serializer returned null
-[09May2024 10:51:31.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/coconut_log as it's serializer returned null
-[09May2024 10:51:31.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/crystal_wood as it's serializer returned null
-[09May2024 10:51:31.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:cloggrum_knife as it's serializer returned null
-[09May2024 10:51:31.953] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/fiery_knife as it's serializer returned null
-[09May2024 10:51:31.954] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:cheese_burger as it's serializer returned null
-[09May2024 10:51:31.955] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/nut_butter_and_jelly_sandwich_from_bread_slice as it's serializer returned null
-[09May2024 10:51:31.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/lead_thermal as it's serializer returned null
-[09May2024 10:51:31.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/electrum_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe autumnity:pumpkin_bread as it's serializer returned null
-[09May2024 10:51:31.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/sinisite_knife as it's serializer returned null
-[09May2024 10:51:31.959] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:nightshade_berry_pie as it's serializer returned null
-[09May2024 10:51:31.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/coconut_curry as it's serializer returned null
-[09May2024 10:51:31.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_nouveau:source_berry_pie as it's serializer returned null
-[09May2024 10:51:31.961] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/deluxe_cheeseburger as it's serializer returned null
-[09May2024 10:51:31.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/adamantium_knife as it's serializer returned null
-[09May2024 10:51:31.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:smelting/cooked_goat as it's serializer returned null
-[09May2024 10:51:31.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/nut_milk_from_copper_cup as it's serializer returned null
-[09May2024 10:51:31.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/wildberries/unpack_blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.963] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:sweet_berry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/manasteel_knife as it's serializer returned null
-[09May2024 10:51:31.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunk_nugget as it's serializer returned null
-[09May2024 10:51:31.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/blue_archwood_log as it's serializer returned null
-[09May2024 10:51:31.966] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/elementium_knife as it's serializer returned null
-[09May2024 10:51:31.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_bombegranate_crate as it's serializer returned null
-[09May2024 10:51:31.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/nickel_knife as it's serializer returned null
-[09May2024 10:51:31.967] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/electrum_thermal as it's serializer returned null
-[09May2024 10:51:31.968] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/baobab_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.969] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/necronium_knife as it's serializer returned null
-[09May2024 10:51:31.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/wigglewood_wood as it's serializer returned null
-[09May2024 10:51:31.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blueberry_pie as it's serializer returned null
-[09May2024 10:51:31.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/holystone_knife as it's serializer returned null
-[09May2024 10:51:31.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:ghast_burger as it's serializer returned null
-[09May2024 10:51:31.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/silver_knife as it's serializer returned null
-[09May2024 10:51:31.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/salmonberry_ice_cream as it's serializer returned null
-[09May2024 10:51:31.975] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/silver_thermal as it's serializer returned null
-[09May2024 10:51:31.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:blueberry_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.978] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_helmet as it's serializer returned null
-[09May2024 10:51:31.979] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/cloggrum_knife as it's serializer returned null
-[09May2024 10:51:31.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe biomemakeover:glowshroom_stew as it's serializer returned null
-[09May2024 10:51:31.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg as it's serializer returned null
-[09May2024 10:51:31.980] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/joshua_fruit_crate as it's serializer returned null
-[09May2024 10:51:31.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/forgotten_knife as it's serializer returned null
-[09May2024 10:51:31.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/knife_minecraft as it's serializer returned null
-[09May2024 10:51:31.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:crimson_berry_pie as it's serializer returned null
-[09May2024 10:51:31.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/infusion/infuse_and_charge_infused_veridium_knife as it's serializer returned null
-[09May2024 10:51:31.981] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cheeseburger_from_bun as it's serializer returned null
-[09May2024 10:51:31.983] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/fiery_iron_knife as it's serializer returned null
-[09May2024 10:51:31.985] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/green_apple_crate as it's serializer returned null
-[09May2024 10:51:31.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/aether/blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.986] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_nightshade_berry_sack as it's serializer returned null
-[09May2024 10:51:31.987] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:cutting/cooked_crab_ecologics as it's serializer returned null
-[09May2024 10:51:31.987] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/roseroot_log as it's serializer returned null
-[09May2024 10:51:31.988] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/sunroot_log as it's serializer returned null
-[09May2024 10:51:31.990] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/aether/unpack_blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.990] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg_from_campfire_cooking as it's serializer returned null
-[09May2024 10:51:31.990] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/emerald_emeraldequipment as it's serializer returned null
-[09May2024 10:51:31.991] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[09May2024 10:51:31.991] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/green_apple_pie_from_slices as it's serializer returned null
-[09May2024 10:51:31.992] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_boots as it's serializer returned null
-[09May2024 10:51:31.995] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/clover as it's serializer returned null
-[09May2024 10:51:31.995] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:insect_sandwich_from_bread_slice as it's serializer returned null
-[09May2024 10:51:31.996] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/yagroot_wood as it's serializer returned null
-[09May2024 10:51:31.996] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/wildberries/blueberry_sack as it's serializer returned null
-[09May2024 10:51:31.996] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/gilded_netherite_knife as it's serializer returned null
-[09May2024 10:51:31.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg_from_smoking as it's serializer returned null
-[09May2024 10:51:31.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomesoplenty/huge_clover_petal as it's serializer returned null
-[09May2024 10:51:31.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle/lavender_tea as it's serializer returned null
-[09May2024 10:51:31.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/diamond_diamond_nuggets as it's serializer returned null
-[09May2024 10:51:31.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_sword as it's serializer returned null
-[09May2024 10:51:31.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_immersiveengineering as it's serializer returned null
-[09May2024 10:51:31.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cheeseburger as it's serializer returned null
-[09May2024 10:51:31.999] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/wigglewood_log as it's serializer returned null
-[09May2024 10:51:32.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 64 recipes
-[09May2024 10:51:32.166] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3069 advancements
-[09May2024 10:51:32.171] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[09May2024 10:51:32.175] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[09May2024 11:47:34.916] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:34.945] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:35.482] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[09May2024 11:47:36.404] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.148 s after launch)
+[09May2024 11:47:36.512] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09May2024 11:47:36.512] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[09May2024 11:47:36.795] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:36.795] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:37.413] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1006 milliseconds
+[09May2024 11:47:37.781] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:37.782] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09May2024 11:47:39.237] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[09May2024 11:47:39.611] [modloading-worker-0/WARN] [fallingleaves/]: Falling Leaves is a client only mod and should be removed from the mods list
+[09May2024 11:47:39.659] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.2 has initialized, ready to support your Create add-ons!
+[09May2024 11:47:39.676] [modloading-worker-0/ERROR] [toastcontrol/]: Running on a dedicated server, disabling mod.
+[09May2024 11:47:39.747] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.30, for MC 1.20.1 with MCP 20230612.114412
+[09May2024 11:47:39.747] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.30 Initialized
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[09May2024 11:47:39.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[09May2024 11:47:39.798] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[09May2024 11:47:39.838] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[09May2024 11:47:39.840] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[09May2024 11:47:39.848] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[09May2024 11:47:39.851] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[09May2024 11:47:39.854] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[09May2024 11:47:39.858] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[09May2024 11:47:39.861] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[09May2024 11:47:39.865] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[09May2024 11:47:40.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:key_pressed
+[09May2024 11:47:40.007] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:mode_changed
+[09May2024 11:47:40.012] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbultimine:sync_config_to_server
+[09May2024 11:47:40.085] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[09May2024 11:47:40.095] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[09May2024 11:47:40.107] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[09May2024 11:47:40.148] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[09May2024 11:47:40.195] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[09May2024 11:47:43.413] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[09May2024 11:47:43.420] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[09May2024 11:47:43.421] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[09May2024 11:47:43.424] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[09May2024 11:47:43.936] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[09May2024 11:47:43.948] [modloading-worker-0/INFO] [com.mowmaster.pedestals.pedestals/]: Initialize Pedestals WorldGen
+[09May2024 11:47:43.984] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.6 initializing...
+[09May2024 11:47:43.998] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
+[09May2024 11:47:44.000] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[09May2024 11:47:44.012] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[09May2024 11:47:44.012] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[09May2024 11:47:44.092] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[09May2024 11:47:44.092] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[09May2024 11:47:44.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[09May2024 11:47:44.673] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
+[09May2024 11:47:44.696] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
+[09May2024 11:47:44.697] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.19.1 Target: null
+[09May2024 11:47:44.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [everlastingabilities] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/everlastingabilities.json
+[09May2024 11:47:44.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [everlastingabilities] Found status: UP_TO_DATE Current: 2.0.14 Target: null
+[09May2024 11:47:44.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[09May2024 11:47:44.720] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
+[09May2024 11:47:44.722] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
+[09May2024 11:47:44.726] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Skipping disabled plugin waila:test
+[09May2024 11:47:44.731] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin mekanism:plugin at mekanism.common.integration.lookingat.wthit.MekanismWTHITPlugin
+[09May2024 11:47:44.734] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
+[09May2024 11:47:44.752] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[09May2024 11:47:45.315] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09May2024 11:47:45.389] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[09May2024 11:47:45.595] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/assets/.mcassetsroot' uses unexpected schema
+[09May2024 11:47:45.596] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23253!/data/.mcassetsroot' uses unexpected schema
+[09May2024 11:47:45.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[09May2024 11:47:45.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.19/update.json
+[09May2024 11:47:45.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.10.0 Target: null
+[09May2024 11:47:45.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[09May2024 11:47:46.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.1.10 Target: 20.1.10
+[09May2024 11:47:46.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[09May2024 11:47:46.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[09May2024 11:47:46.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[09May2024 11:47:47.071] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fan_transparent as it is missing following references: create:void_steel_bars (from createutilities-0.3.0+1.20.1.jar)
+[09May2024 11:47:47.506] [main/INFO] [Iron Jetpacks/]: Loaded 14 jetpack type(s) in 8 ms
+[09May2024 11:47:47.510] [main/INFO] [Cucumber Library/]: Registered 52 recipes in 12 ms
+[09May2024 11:47:47.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:pumpkin_pie as it's serializer returned null
+[09May2024 11:47:47.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:gloomgourd_pie as it's serializer returned null
+[09May2024 11:47:47.549] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:skyroot_milk_bucket_cake as it's serializer returned null
+[09May2024 11:47:47.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_thermal as it's serializer returned null
+[09May2024 11:47:47.556] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.556] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/ritual/living_knife as it's serializer returned null
+[09May2024 11:47:47.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/skyroot_wood as it's serializer returned null
+[09May2024 11:47:47.558] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/skyroot_knife as it's serializer returned null
+[09May2024 11:47:47.560] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mechanical_crafting/gilded_quartz_knife as it's serializer returned null
+[09May2024 11:47:47.561] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:green_apple_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.563] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg as it's serializer returned null
+[09May2024 11:47:47.565] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_axe as it's serializer returned null
+[09May2024 11:47:47.565] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomesoplenty/lavender_tea as it's serializer returned null
+[09May2024 11:47:47.566] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/fieldsprout_log as it's serializer returned null
+[09May2024 11:47:47.566] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:moa_egg_pumpkin_pie as it's serializer returned null
+[09May2024 11:47:47.569] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg_from_smoking as it's serializer returned null
+[09May2024 11:47:47.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/nightshade_berry_pie as it's serializer returned null
+[09May2024 11:47:47.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:hydra_burger as it's serializer returned null
+[09May2024 11:47:47.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/mendosteen_crate as it's serializer returned null
+[09May2024 11:47:47.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle/azalea_tea as it's serializer returned null
+[09May2024 11:47:47.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:frosteel_knife as it's serializer returned null
+[09May2024 11:47:47.573] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/windswept/goat_shanks_windswept as it's serializer returned null
+[09May2024 11:47:47.575] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/blueberry_pie as it's serializer returned null
+[09May2024 11:47:47.575] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/gloomgourd_pie as it's serializer returned null
+[09May2024 11:47:47.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_axe as it's serializer returned null
+[09May2024 11:47:47.577] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_green_apple_crate as it's serializer returned null
+[09May2024 11:47:47.578] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/invar_thermal as it's serializer returned null
+[09May2024 11:47:47.578] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/lead_thermal as it's serializer returned null
+[09May2024 11:47:47.579] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cratedelight:minecraft/crafting/sugar_bag: com.google.gson.JsonSyntaxException: Unknown item 'cratedelight:sugar_bag'
+[09May2024 11:47:47.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/lead_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.580] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_barrel_cactus_flowered as it's serializer returned null
+[09May2024 11:47:47.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:tuna_sandwich as it's serializer returned null
+[09May2024 11:47:47.584] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:cutting/rotten_log as it's serializer returned null
+[09May2024 11:47:47.587] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:nightshade_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.588] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/valkyrum_knife as it's serializer returned null
+[09May2024 11:47:47.589] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/skyroot_log as it's serializer returned null
+[09May2024 11:47:47.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_chestplate as it's serializer returned null
+[09May2024 11:47:47.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/tin_thermal as it's serializer returned null
+[09May2024 11:47:47.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:pb_j as it's serializer returned null
+[09May2024 11:47:47.591] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_crimson_berry_sack as it's serializer returned null
+[09May2024 11:47:47.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/nickel_thermal as it's serializer returned null
+[09May2024 11:47:47.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/draco_arcanus_knife as it's serializer returned null
+[09May2024 11:47:47.595] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sprout:water_sausage as it's serializer returned null
+[09May2024 11:47:47.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/onyx_knife as it's serializer returned null
+[09May2024 11:47:47.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/azalea_log as it's serializer returned null
+[09May2024 11:47:47.596] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/source_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.597] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_saguaro_cactus as it's serializer returned null
+[09May2024 11:47:47.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/warden_knife as it's serializer returned null
+[09May2024 11:47:47.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg_from_smoking as it's serializer returned null
+[09May2024 11:47:47.599] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/lapis_lazuli_knife as it's serializer returned null
+[09May2024 11:47:47.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:truffle_cake_from_chocolate as it's serializer returned null
+[09May2024 11:47:47.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bronze_thermal as it's serializer returned null
+[09May2024 11:47:47.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/sweet_berry_pie as it's serializer returned null
+[09May2024 11:47:47.601] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/diamond_diamond_nuggets as it's serializer returned null
+[09May2024 11:47:47.602] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_copperized as it's serializer returned null
+[09May2024 11:47:47.602] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/coconut_curry_no_ginger as it's serializer returned null
+[09May2024 11:47:47.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mythril_knife as it's serializer returned null
+[09May2024 11:47:47.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/grongle_log as it's serializer returned null
+[09May2024 11:47:47.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/blue_archwood_wood as it's serializer returned null
+[09May2024 11:47:47.605] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/venison as it's serializer returned null
+[09May2024 11:47:47.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle_yh/lavender_tea as it's serializer returned null
+[09May2024 11:47:47.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:crimson_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cranberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/steeleaf_knife as it's serializer returned null
+[09May2024 11:47:47.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe cratedelight:minecraft/crafting/cod_crate as it's serializer returned null
+[09May2024 11:47:47.609] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.610] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:pumpkin_pie as it's serializer returned null
+[09May2024 11:47:47.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:deluxe_burger_from_bun as it's serializer returned null
+[09May2024 11:47:47.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/blackberry_pie as it's serializer returned null
+[09May2024 11:47:47.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:cake as it's serializer returned null
+[09May2024 11:47:47.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:hydra_burger_from_bun as it's serializer returned null
+[09May2024 11:47:47.616] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/azalea_wood as it's serializer returned null
+[09May2024 11:47:47.617] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_from_barrel: com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
+[09May2024 11:47:47.617] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/sunroot_wood as it's serializer returned null
+[09May2024 11:47:47.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/holystone_knife as it's serializer returned null
+[09May2024 11:47:47.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/constantan_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunkwich as it's serializer returned null
+[09May2024 11:47:47.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/steel_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:cutting/knife/gloomgourd_pie as it's serializer returned null
+[09May2024 11:47:47.623] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/thyrium_knife as it's serializer returned null
+[09May2024 11:47:47.624] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:glow_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.624] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/grongle_wood as it's serializer returned null
+[09May2024 11:47:47.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/constantan_thermal as it's serializer returned null
+[09May2024 11:47:47.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunkwich_from_bun as it's serializer returned null
+[09May2024 11:47:47.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomemakeover/cactus_flesh_from_barrel_cactus as it's serializer returned null
+[09May2024 11:47:47.625] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/zanite_knife as it's serializer returned null
+[09May2024 11:47:47.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:deluxe_burger as it's serializer returned null
+[09May2024 11:47:47.627] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_nouveau:source_berry_roll as it's serializer returned null
+[09May2024 11:47:47.628] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/silver_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.629] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.629] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/invar_thermal as it's serializer returned null
+[09May2024 11:47:47.629] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:raspberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.629] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/stratus_knife as it's serializer returned null
+[09May2024 11:47:47.631] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/lead_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.631] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_shovel as it's serializer returned null
+[09May2024 11:47:47.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sunflowerdelight:cooking/rose_lemonade as it's serializer returned null
+[09May2024 11:47:47.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe duckling:holiday_fruit_cake as it's serializer returned null
+[09May2024 11:47:47.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/marshmallow_stick_create_confectionery as it's serializer returned null
+[09May2024 11:47:47.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/skyjade_knife as it's serializer returned null
+[09May2024 11:47:47.635] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.635] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/honey_glazed_walnut as it's serializer returned null
+[09May2024 11:47:47.636] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/stratus_knife as it's serializer returned null
+[09May2024 11:47:47.636] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe neapolitan:banana/banana_bread as it's serializer returned null
+[09May2024 11:47:47.637] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/sinigang as it's serializer returned null
+[09May2024 11:47:47.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/fluix_knife as it's serializer returned null
+[09May2024 11:47:47.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:ghast_burger_from_bun as it's serializer returned null
+[09May2024 11:47:47.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create:fr/tea as it's serializer returned null
+[09May2024 11:47:47.638] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/conberry_wood as it's serializer returned null
+[09May2024 11:47:47.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:skyroot_milk_bucket_cake as it's serializer returned null
+[09May2024 11:47:47.639] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/green_archwood_log as it's serializer returned null
+[09May2024 11:47:47.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/tin_thermal as it's serializer returned null
+[09May2024 11:47:47.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/nightshade_berry_sack as it's serializer returned null
+[09May2024 11:47:47.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_leggings as it's serializer returned null
+[09May2024 11:47:47.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/netherite_opal_knife as it's serializer returned null
+[09May2024 11:47:47.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:hamburger_from_bun as it's serializer returned null
+[09May2024 11:47:47.642] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:matcha_ice_cream_block as it's serializer returned null
+[09May2024 11:47:47.642] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_chestplate as it's serializer returned null
+[09May2024 11:47:47.642] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/skyroot_knife as it's serializer returned null
+[09May2024 11:47:47.643] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/starlit_stellium_knife as it's serializer returned null
+[09May2024 11:47:47.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:cheese_burger_from_bun as it's serializer returned null
+[09May2024 11:47:47.644] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/crimson_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/obsidian_infused_enderite_knife as it's serializer returned null
+[09May2024 11:47:47.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/enderite_knife as it's serializer returned null
+[09May2024 11:47:47.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/utherium_knife as it's serializer returned null
+[09May2024 11:47:47.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_milk as it's serializer returned null
+[09May2024 11:47:47.647] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/walnut_wood as it's serializer returned null
+[09May2024 11:47:47.647] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/cruderoot_log as it's serializer returned null
+[09May2024 11:47:47.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_mendosteen_crate as it's serializer returned null
+[09May2024 11:47:47.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe minecraft:pumpkin_pie as it's serializer returned null
+[09May2024 11:47:47.648] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/kiwano_knife as it's serializer returned null
+[09May2024 11:47:47.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/zanite_knife as it's serializer returned null
+[09May2024 11:47:47.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/leaf_knife as it's serializer returned null
+[09May2024 11:47:47.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_leggings as it's serializer returned null
+[09May2024 11:47:47.651] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/flowering_azalea_wood as it's serializer returned null
+[09May2024 11:47:47.651] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/silver_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/nut_milk_from_skyroot_bucket as it's serializer returned null
+[09May2024 11:47:47.652] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:pumpkin_pie as it's serializer returned null
+[09May2024 11:47:47.653] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/constantan_knife as it's serializer returned null
+[09May2024 11:47:47.653] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_shovel as it's serializer returned null
+[09May2024 11:47:47.653] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/frostaya_crate as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_bastion_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_truffle_hot_chocolate as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:utherium_knife as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/raspberry_pie as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_baobab_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/cruderoot_wood as it's serializer returned null
+[09May2024 11:47:47.655] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:cutting/cooked_venison_rib as it's serializer returned null
+[09May2024 11:47:47.655] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/skyjade_knife as it's serializer returned null
+[09May2024 11:47:47.658] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/invar_knife as it's serializer returned null
+[09May2024 11:47:47.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/knightmetal_knife as it's serializer returned null
+[09May2024 11:47:47.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create:mixing/tea as it's serializer returned null
+[09May2024 11:47:47.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cake as it's serializer returned null
+[09May2024 11:47:47.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_joshua_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe hauntedharvest:corn_bread as it's serializer returned null
+[09May2024 11:47:47.663] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/purple_archwood_log as it's serializer returned null
+[09May2024 11:47:47.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/copper_knife as it's serializer returned null
+[09May2024 11:47:47.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/emerald_emeraldequipment as it's serializer returned null
+[09May2024 11:47:47.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/crystal_log as it's serializer returned null
+[09May2024 11:47:47.665] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/nightshade_berry_pie as it's serializer returned null
+[09May2024 11:47:47.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_frostaya_crate as it's serializer returned null
+[09May2024 11:47:47.667] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:moa_egg_cake as it's serializer returned null
+[09May2024 11:47:47.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blackberry_pie as it's serializer returned null
+[09May2024 11:47:47.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:sweet_berry_cheesecake_from_cheese as it's serializer returned null
+[09May2024 11:47:47.668] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/black_opal_knife as it's serializer returned null
+[09May2024 11:47:47.669] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/cooked_venison as it's serializer returned null
+[09May2024 11:47:47.669] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe sunflowerdelight:cooking/rose_lemonade_from_lemon as it's serializer returned null
+[09May2024 11:47:47.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/smogstem_log as it's serializer returned null
+[09May2024 11:47:47.671] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/walnut_log as it's serializer returned null
+[09May2024 11:47:47.671] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/crab_rangoon as it's serializer returned null
+[09May2024 11:47:47.672] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_chocolate_milk_from_chocolate as it's serializer returned null
+[09May2024 11:47:47.672] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/stellium_knife as it's serializer returned null
+[09May2024 11:47:47.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/nickel_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe fruitsdelight:fig_pudding as it's serializer returned null
+[09May2024 11:47:47.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_hoe as it's serializer returned null
+[09May2024 11:47:47.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/amethyst_knife as it's serializer returned null
+[09May2024 11:47:47.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/gloomgourd_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/blueberry_pie as it's serializer returned null
+[09May2024 11:47:47.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spawn:cutting/rotten_wood as it's serializer returned null
+[09May2024 11:47:47.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/knife_minecraft as it's serializer returned null
+[09May2024 11:47:47.675] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cranberry_pie as it's serializer returned null
+[09May2024 11:47:47.676] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/electrum_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.676] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/alf_knife as it's serializer returned null
+[09May2024 11:47:47.676] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_pickaxe as it's serializer returned null
+[09May2024 11:47:47.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/golden_oak_wood as it's serializer returned null
+[09May2024 11:47:47.677] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/gravitite_knife as it's serializer returned null
+[09May2024 11:47:47.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/froststeel_knife as it's serializer returned null
+[09May2024 11:47:47.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:cutting/golden_oak_log as it's serializer returned null
+[09May2024 11:47:47.678] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/green_apple_pie as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/conberry_log as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/imbuement_pomegranate as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/veridium_knife as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:vegan_hamburger as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/gravitite_knife as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/red_archwood_log as it's serializer returned null
+[09May2024 11:47:47.679] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/large_amethyst_knife as it's serializer returned null
+[09May2024 11:47:47.680] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/ironwood_knife as it's serializer returned null
+[09May2024 11:47:47.680] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:raspberry_pie as it's serializer returned null
+[09May2024 11:47:47.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/quark/cactus_flesh_from_cactus_block as it's serializer returned null
+[09May2024 11:47:47.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/farmersrespite/green_tea_leaves_from_green_tea_leaf as it's serializer returned null
+[09May2024 11:47:47.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/constantan_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/crimson_berry_pie as it's serializer returned null
+[09May2024 11:47:47.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/bastion_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/experience_knife as it's serializer returned null
+[09May2024 11:47:47.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/nether_quartz_knife as it's serializer returned null
+[09May2024 11:47:47.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cake as it's serializer returned null
+[09May2024 11:47:47.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/purple_archwood_wood as it's serializer returned null
+[09May2024 11:47:47.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle_yh/azalea_tea as it's serializer returned null
+[09May2024 11:47:47.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg_from_campfire_cooking as it's serializer returned null
+[09May2024 11:47:47.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:green_apple_pie as it's serializer returned null
+[09May2024 11:47:47.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/yagroot_log as it's serializer returned null
+[09May2024 11:47:47.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:tropical_stew as it's serializer returned null
+[09May2024 11:47:47.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/green_apple_pie as it's serializer returned null
+[09May2024 11:47:47.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/azalea_tea as it's serializer returned null
+[09May2024 11:47:47.685] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:cutting/raw_venison_rib as it's serializer returned null
+[09May2024 11:47:47.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/blueberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.689] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_chocolate_milk as it's serializer returned null
+[09May2024 11:47:47.689] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether:skyroot_milk_bucket_moa_egg_cake as it's serializer returned null
+[09May2024 11:47:47.690] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/crimson_berry_sack as it's serializer returned null
+[09May2024 11:47:47.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.3.1 Target: null
+[09May2024 11:47:47.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09May2024 11:47:47.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:forgotten_knife as it's serializer returned null
+[09May2024 11:47:47.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:campfire/cooked_goat as it's serializer returned null
+[09May2024 11:47:47.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/terra_knife as it's serializer returned null
+[09May2024 11:47:47.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/bombegranate_crate as it's serializer returned null
+[09May2024 11:47:47.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:cutting/crimson_berry_pie as it's serializer returned null
+[09May2024 11:47:47.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/smogstem_wood as it's serializer returned null
+[09May2024 11:47:47.693] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/blueberry_pie as it's serializer returned null
+[09May2024 11:47:47.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blackberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/clover_honey as it's serializer returned null
+[09May2024 11:47:47.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/nightshade_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_boots as it's serializer returned null
+[09May2024 11:47:47.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/soul_steel_knife as it's serializer returned null
+[09May2024 11:47:47.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/mixing/blazing_knife as it's serializer returned null
+[09May2024 11:47:47.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/emerald_knife as it's serializer returned null
+[09May2024 11:47:47.696] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bronze_thermal as it's serializer returned null
+[09May2024 11:47:47.697] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_copperized as it's serializer returned null
+[09May2024 11:47:47.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/immersive_weathering/tallow_from_animal_fat as it's serializer returned null
+[09May2024 11:47:47.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/crystalline_knife as it's serializer returned null
+[09May2024 11:47:47.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/roseroot_wood as it's serializer returned null
+[09May2024 11:47:47.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/fieldsprout_wood as it's serializer returned null
+[09May2024 11:47:47.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/pendorite_knife as it's serializer returned null
+[09May2024 11:47:47.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:salmonberry_ice_cream_block as it's serializer returned null
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_pickaxe as it's serializer returned null
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/electrum_thermal as it's serializer returned null
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:vegan_hamburger_from_bun as it's serializer returned null
+[09May2024 11:47:47.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe miners_delight:insect_sandwich: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:insect_sandwich'
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/nickel_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/certus_quartz_knife as it's serializer returned null
+[09May2024 11:47:47.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/infusion/infuse_and_charge_veridium_knife as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/windswept/cooked_goat_shanks_windswept as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/silver_thermal as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/red_archwood_wood as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/source_berry_pie as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:truffle_cake as it's serializer returned null
+[09May2024 11:47:47.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe enlightened_end:smithing/adamantite_knife as it's serializer returned null
+[09May2024 11:47:47.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe frozenup:mug_of_truffle_hot_chocolate_from_chocolate as it's serializer returned null
+[09May2024 11:47:47.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/cranberry_pie as it's serializer returned null
+[09May2024 11:47:47.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/bone_knife as it's serializer returned null
+[09May2024 11:47:47.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/berry_matcha_latte_neapolitan as it's serializer returned null
+[09May2024 11:47:47.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:blueberry_pie as it's serializer returned null
+[09May2024 11:47:47.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:cutting/glow_berry_pie_slice as it's serializer returned null
+[09May2024 11:47:47.705] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.705] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_sword as it's serializer returned null
+[09May2024 11:47:47.705] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe cratedelight:minecraft/crafting/salmon_crate as it's serializer returned null
+[09May2024 11:47:47.707] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/imbuement_mangosteen as it's serializer returned null
+[09May2024 11:47:47.707] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_hoe as it's serializer returned null
+[09May2024 11:47:47.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/glacia_log as it's serializer returned null
+[09May2024 11:47:47.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/rose_gold_knife as it's serializer returned null
+[09May2024 11:47:47.710] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg_from_campfire_cooking as it's serializer returned null
+[09May2024 11:47:47.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/coconut_wood as it's serializer returned null
+[09May2024 11:47:47.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:smoking/cooked_goat as it's serializer returned null
+[09May2024 11:47:47.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/deluxe_cheeseburger_from_bun as it's serializer returned null
+[09May2024 11:47:47.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/matcha_ice_cream as it's serializer returned null
+[09May2024 11:47:47.714] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/glacia_wood as it's serializer returned null
+[09May2024 11:47:47.715] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:bacon_sandwich_from_bread_slice as it's serializer returned null
+[09May2024 11:47:47.715] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_thermal as it's serializer returned null
+[09May2024 11:47:47.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/constantan_thermal as it's serializer returned null
+[09May2024 11:47:47.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/green_archwood_wood as it's serializer returned null
+[09May2024 11:47:47.716] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/steel_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.717] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/atmospheric/cactus_flesh_from_barrel_cactus as it's serializer returned null
+[09May2024 11:47:47.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_helmet as it's serializer returned null
+[09May2024 11:47:47.719] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cratedelight:minecraft/crafting/apple_crate: com.google.gson.JsonSyntaxException: Unknown item 'cratedelight:apple_crate'
+[09May2024 11:47:47.719] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe crabbersdelight:lanternfish_barrel: com.google.gson.JsonSyntaxException: Unknown item 'sullysmod:lanternfish'
+[09May2024 11:47:47.719] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe incubation:fried_egg as it's serializer returned null
+[09May2024 11:47:47.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:sweet_berry_pie as it's serializer returned null
+[09May2024 11:47:47.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:gloomgourd_pie as it's serializer returned null
+[09May2024 11:47:47.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/nickel_thermal as it's serializer returned null
+[09May2024 11:47:47.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:glow_berry_pie_craft as it's serializer returned null
+[09May2024 11:47:47.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/atmospheric/cactus_flesh_from_barrel_cactus_batch as it's serializer returned null
+[09May2024 11:47:47.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/copper_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/flowering_azalea_log as it's serializer returned null
+[09May2024 11:47:47.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/allthemodium_knife as it's serializer returned null
+[09May2024 11:47:47.723] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.724] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/smore as it's serializer returned null
+[09May2024 11:47:47.724] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blueberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.724] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/prickly_pear_juice as it's serializer returned null
+[09May2024 11:47:47.724] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ecologics:cutting/coconut_log as it's serializer returned null
+[09May2024 11:47:47.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe aether_redux:cutting/crystal_wood as it's serializer returned null
+[09May2024 11:47:47.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergardendelight:cloggrum_knife as it's serializer returned null
+[09May2024 11:47:47.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/fiery_knife as it's serializer returned null
+[09May2024 11:47:47.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe vintagedelight:cheese_burger as it's serializer returned null
+[09May2024 11:47:47.726] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/nut_butter_and_jelly_sandwich_from_bread_slice as it's serializer returned null
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/lead_thermal as it's serializer returned null
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/electrum_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe autumnity:pumpkin_bread as it's serializer returned null
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/sinisite_knife as it's serializer returned null
+[09May2024 11:47:47.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:nightshade_berry_pie as it's serializer returned null
+[09May2024 11:47:47.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/coconut_curry as it's serializer returned null
+[09May2024 11:47:47.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe ars_nouveau:source_berry_pie as it's serializer returned null
+[09May2024 11:47:47.728] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/deluxe_cheeseburger as it's serializer returned null
+[09May2024 11:47:47.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/adamantium_knife as it's serializer returned null
+[09May2024 11:47:47.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:smelting/cooked_goat as it's serializer returned null
+[09May2024 11:47:47.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cooking/nut_milk_from_copper_cup as it's serializer returned null
+[09May2024 11:47:47.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/wildberries/unpack_blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:sweet_berry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/manasteel_knife as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/rottenleather/chunk_nugget as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/cutting/blue_archwood_log as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/elementium_knife as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/ars_nouveau/unpack_bombegranate_crate as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/nickel_knife as it's serializer returned null
+[09May2024 11:47:47.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/electrum_thermal as it's serializer returned null
+[09May2024 11:47:47.732] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/baobab_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.732] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/necronium_knife as it's serializer returned null
+[09May2024 11:47:47.732] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/wigglewood_wood as it's serializer returned null
+[09May2024 11:47:47.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe wildberries:blueberry_pie as it's serializer returned null
+[09May2024 11:47:47.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/repairing/holystone_knife as it's serializer returned null
+[09May2024 11:47:47.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightdelight:ghast_burger as it's serializer returned null
+[09May2024 11:47:47.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/silver_knife as it's serializer returned null
+[09May2024 11:47:47.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/salmonberry_ice_cream as it's serializer returned null
+[09May2024 11:47:47.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/silver_thermal as it's serializer returned null
+[09May2024 11:47:47.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:blueberry_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_helmet as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/cloggrum_knife as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe biomemakeover:glowshroom_stew as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/joshua_fruit_crate as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/forgotten_knife as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/knife_minecraft as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe byg:crimson_berry_pie as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/infusion/infuse_and_charge_infused_veridium_knife as it's serializer returned null
+[09May2024 11:47:47.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cheeseburger_from_bun as it's serializer returned null
+[09May2024 11:47:47.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/fiery_iron_knife as it's serializer returned null
+[09May2024 11:47:47.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/green_apple_crate as it's serializer returned null
+[09May2024 11:47:47.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/aether/blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/byg/unpack_nightshade_berry_sack as it's serializer returned null
+[09May2024 11:47:47.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe farmersdelight:cutting/cooked_crab_ecologics as it's serializer returned null
+[09May2024 11:47:47.740] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/roseroot_log as it's serializer returned null
+[09May2024 11:47:47.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/sunroot_log as it's serializer returned null
+[09May2024 11:47:47.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/aether/unpack_blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe additionaladditions:fried_egg_from_campfire_cooking as it's serializer returned null
+[09May2024 11:47:47.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/emerald_emeraldequipment as it's serializer returned null
+[09May2024 11:47:47.741] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[09May2024 11:47:47.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/pie/green_apple_pie_from_slices as it's serializer returned null
+[09May2024 11:47:47.743] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/bone/bone_meal_from_blasting_boots as it's serializer returned null
+[09May2024 11:47:47.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:cutting/clover as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe miners_delight:insect_sandwich_from_bread_slice as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe deep_aether:cutting/yagroot_wood as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/wildberries/blueberry_sack as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smithing/gilded_netherite_knife as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe naturalist:cooked_egg_from_smoking as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:integration/biomesoplenty/huge_clover_petal as it's serializer returned null
+[09May2024 11:47:47.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/kettle/lavender_tea as it's serializer returned null
+[09May2024 11:47:47.746] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/diamond_diamond_nuggets as it's serializer returned null
+[09May2024 11:47:47.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/smelting/bone/bone_meal_from_smelting_sword as it's serializer returned null
+[09May2024 11:47:47.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:knives/blasting/copper_immersiveengineering as it's serializer returned null
+[09May2024 11:47:47.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe delightful:food/cheeseburger as it's serializer returned null
+[09May2024 11:47:47.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe undergarden:cutting/wigglewood_log as it's serializer returned null
+[09May2024 11:47:47.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 64 recipes
+[09May2024 11:47:47.841] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3069 advancements
+[09May2024 11:47:47.846] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[09May2024 11:47:47.850] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -614,8 +616,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternatives'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[09May2024 10:51:32.179] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
-[09May2024 10:51:32.179] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+[09May2024 11:47:47.852] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_leather - error: Unknown type 'minecraft:alternatives'
+[09May2024 11:47:47.853] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
 com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -674,71 +676,68 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[09May2024 10:51:32.181] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
-[09May2024 10:51:32.190] [main/INFO] [net.blay09.mods.craftingtweaks.registry.JsonCompatLoader/]: storagenetwork has registered com.lothrazar.storagenetwork.block.request.ContainerNetworkCraftingTable for CraftingTweaks via data pack
-[09May2024 10:51:32.196] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[09May2024 10:51:32.201] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[09May2024 10:51:32.207] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[09May2024 10:51:32.238] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
-[09May2024 10:51:32.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09May2024 10:51:32.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09May2024 10:51:32.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09May2024 10:51:32.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09May2024 10:51:32.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 127.0.0.1:53030
-[09May2024 10:51:32.701] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[09May2024 10:51:32.808] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09May2024 10:51:32.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09May2024 10:51:32.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09May2024 10:51:32.809] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09May2024 10:51:32.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09May2024 10:51:32.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.3.1 Target: null
-[09May2024 10:51:32.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09May2024 10:51:33.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09May2024 10:51:33.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.30 Target: 47.2.31
-[09May2024 10:51:33.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[09May2024 10:51:33.942] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09May2024 10:51:33.943] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09May2024 10:51:34.695] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1469 ms
-[09May2024 10:51:34.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.866s)! For help, type "help"
-[09May2024 10:51:34.744] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09May2024 10:51:34.764] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[09May2024 10:51:34.769] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[09May2024 10:51:34.786] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
-[09May2024 10:51:34.787] [Server thread/WARN] [ModernFix/]: Dedicated server took 20.209 seconds to load
-[09May2024 10:51:34.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[09May2024 10:51:34.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flopper] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/flopper.json
-[09May2024 10:51:35.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flopper] Found status: UP_TO_DATE Current: 1.1.5 Target: null
-[09May2024 10:51:35.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[09May2024 10:51:35.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.0.14 Target: 17.0.14
-[09May2024 10:51:35.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[09May2024 10:51:35.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.4 Target: null
-[09May2024 10:51:35.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://update.maxhenkel.de/forge/pipez
-[09May2024 10:51:36.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: AHEAD Current: 1.20.1-1.2.6 Target: null
-[09May2024 10:51:36.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[09May2024 10:51:36.613] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
-[09May2024 10:51:36.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
-[09May2024 10:51:36.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.1.e-22 Target: null
-[09May2024 10:51:36.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[09May2024 10:51:37.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
-[09May2024 10:51:37.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[09May2024 10:51:37.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[09May2024 10:51:37.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[09May2024 10:51:37.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.18 Target: null
-[09May2024 10:51:37.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Starting version check at https://raw.githubusercontent.com/brnbrd/Delightful/1.20.1/update/update.json
-[09May2024 10:51:37.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Found status: OUTDATED Current: 3.5.3 Target: 3.5.4
-[09May2024 10:52:16.340] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[09May2024 10:52:16.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wuwSh[/127.0.0.1:64094] logged in with entity id 380 at (156.65636239727635, 79.0, -87.12589669236858)
-[09May2024 10:52:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wuwSh joined the game
-[09May2024 11:01:20.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[09May2024 11:01:20.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[09May2024 11:01:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[09May2024 11:01:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09May2024 11:01:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09May2024 11:01:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09May2024 11:01:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09May2024 11:01:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09May2024 11:01:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09May2024 11:01:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09May2024 11:01:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09May2024 11:01:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09May2024 11:01:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09May2024 11:47:47.854] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id nethersdelight:chopping_string - error: Unknown type 'minecraft:alternative'
+[09May2024 11:47:47.864] [main/INFO] [net.blay09.mods.craftingtweaks.registry.JsonCompatLoader/]: storagenetwork has registered com.lothrazar.storagenetwork.block.request.ContainerNetworkCraftingTable for CraftingTweaks via data pack
+[09May2024 11:47:47.868] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[09May2024 11:47:47.872] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[09May2024 11:47:47.879] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[09May2024 11:47:47.912] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 1 ms
+[09May2024 11:47:48.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.30 Target: 47.2.31
+[09May2024 11:47:48.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[09May2024 11:47:48.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09May2024 11:47:48.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09May2024 11:47:48.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09May2024 11:47:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09May2024 11:47:48.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 127.0.0.1:53030
+[09May2024 11:47:48.285] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[09May2024 11:47:48.392] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09May2024 11:47:48.393] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09May2024 11:47:48.393] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09May2024 11:47:48.393] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09May2024 11:47:48.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09May2024 11:47:48.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09May2024 11:47:49.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[09May2024 11:47:49.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flopper] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/flopper.json
+[09May2024 11:47:49.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flopper] Found status: UP_TO_DATE Current: 1.1.5 Target: null
+[09May2024 11:47:49.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[09May2024 11:47:49.557] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09May2024 11:47:49.557] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09May2024 11:47:49.769] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[09May2024 11:47:49.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.0.14 Target: 17.0.14
+[09May2024 11:47:49.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[09May2024 11:47:50.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.4 Target: null
+[09May2024 11:47:50.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Starting version check at https://update.maxhenkel.de/forge/pipez
+[09May2024 11:47:50.298] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1529 ms
+[09May2024 11:47:50.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.884s)! For help, type "help"
+[09May2024 11:47:50.335] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09May2024 11:47:50.350] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[09May2024 11:47:50.355] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[09May2024 11:47:50.375] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[09May2024 11:47:50.376] [Server thread/WARN] [ModernFix/]: Dedicated server took 20.12 seconds to load
+[09May2024 11:47:50.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pipez] Found status: AHEAD Current: 1.20.1-1.2.6 Target: null
+[09May2024 11:47:50.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[09May2024 11:47:50.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[09May2024 11:47:50.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
+[09May2024 11:47:51.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.1.e-22 Target: null
+[09May2024 11:47:51.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[09May2024 11:47:51.611] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.15 Target: null
+[09May2024 11:47:51.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[09May2024 11:47:51.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[09May2024 11:47:51.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[09May2024 11:47:51.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.18 Target: null
+[09May2024 11:47:51.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Starting version check at https://raw.githubusercontent.com/brnbrd/Delightful/1.20.1/update/update.json
+[09May2024 11:47:51.919] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Found status: OUTDATED Current: 3.5.3 Target: 3.5.4
+[09May2024 13:09:01.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22129cb6[id=<null>,name=ANTz,properties={},legacy=false] (/127.143.8.46:57734) lost connection: Disconnected
+[09May2024 19:06:21.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[09May2024 19:06:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[09May2024 19:06:23.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09May2024 19:06:23.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2024 19:06:23.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2024 19:06:23.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2024 19:06:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09May2024 19:06:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09May2024 19:06:23.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09May2024 19:06:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2024 19:06:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2024 19:06:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2024 19:06:23.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

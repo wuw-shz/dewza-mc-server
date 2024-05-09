@@ -6,10 +6,7 @@ if exist %zip% (
     del %zip%
 )
 
-copy /y "%~dp0\client\!install-mods.bat" "%~dp0\mods"
-
-PowerShell -Command "Compress-Archive -Path mods -DestinationPath %zip%"
+PowerShell -Command "Compress-Archive -Path mods -DestinationPath client-mods/mods.zip" >nul
+PowerShell -Command "Compress-Archive -Path client-mods -DestinationPath %zip%" >nul
 
 echo ✅  Mods Built Successfully.
-
-pause
