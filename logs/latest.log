@@ -1,10 +1,14 @@
-[09May2024 19:18:15.673] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.30, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[09May2024 19:18:15.677] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[09May2024 19:18:16.199] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09May2024 19:18:16.253] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/wuwsh/Downloads/1.20.1%20Forge%20Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09May2024 19:18:16.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.30\fmlcore-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 19:18:16.693] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.30\javafmllanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 19:18:16.697] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.30\lowcodelanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 19:18:16.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\wuwsh\Downloads\1.20.1 Forge Server\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.30\mclanguage-1.20.1-47.2.30.jar is missing mods.toml file
-[09May2024 19:18:16.859] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[09May2024 19:18:16.860] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[12May2024 04:38:35.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37085564ms or 741711 ticks behind
+[12May2024 05:00:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[12May2024 05:00:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[12May2024 05:00:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12May2024 05:00:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12May2024 05:00:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12May2024 05:00:03.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12May2024 05:00:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12May2024 05:00:03.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12May2024 05:00:03.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12May2024 05:00:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12May2024 05:00:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12May2024 05:00:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12May2024 05:00:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
